@@ -101,7 +101,7 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
+	      <name>Landmark Technologies Snapshot Nexus Repository</name>
 	      <url>http://54.92.194.255:8081/repository/Tesla-front-end-Snapshot/</url>
 	    </snapshotRepository>
 	    
